@@ -1,3 +1,3 @@
 {
-"mongo": "mongodb+srv://mr:lakaofc@huhu.bvm1tfo.mongodb.net/huhu"
+"mongo": "mongodb+srv://laka:laka@huka.29okt07.mongodb.net/huka"
 }
